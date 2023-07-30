@@ -31,7 +31,7 @@ python3 -m pip install -r requirements.txt
 
 以下のURLを参考にした
 
-https://qiita.com/silloi/items/739699337b9bf4883b3e
+- https://qiita.com/silloi/items/739699337b9bf4883b3e
 
 また，その他のパッケージはcvxotのインストールのために必要なものであり以下のURLを参考にした
 
