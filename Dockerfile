@@ -1,4 +1,4 @@
-FROM python:3.10-bullseye
+FROM --platform=linux/amd64 python:3.10-bullseye
 
 RUN apt update 
 RUN apt install -y gcc
