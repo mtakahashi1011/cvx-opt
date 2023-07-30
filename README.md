@@ -35,9 +35,9 @@ https://qiita.com/silloi/items/739699337b9bf4883b3e
 
 また，その他のパッケージはcvxotのインストールのために必要なものであり以下のURLを参考にした
 
-https://cvxopt.org/install/#ubuntu-debian
+- https://cvxopt.org/install/#ubuntu-debian
 
-https://github.com/cvxopt/cvxopt/issues/78
+- https://github.com/cvxopt/cvxopt/issues/78
 
 
 ### 3.コンテナの起動
